@@ -1,6 +1,6 @@
-## Deacon Rottler's First CS193 Homework
+# Deacon Rottler's First CS193 Homework
 
-# My favorite things about CS193:
+### My favorite things about CS193:
 - Fellow nerds
 - CS
 - Air Conditioning
